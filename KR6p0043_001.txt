@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:20.408864
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:53
 #+TITLE: 西方要決釋疑通規
 #+PROPERTY: CBETA_ID T47n1964
 #+PROPERTY: ID KR6p0043
